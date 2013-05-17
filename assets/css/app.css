@@ -35,6 +35,8 @@ html, body {
 .container {
   width: auto;
   max-width: 680px;
+  min-width: 680px;
+  width: 680px;
   margin: 0 auto;
 }
 
@@ -46,9 +48,11 @@ h1, h2 {
 h1 {
   color: #2F9AC8;
   font-weight: normal;
+  font-size: 36px;
 }
 
 h2 {
+  font-size: 24px;
   color: #9099a3;
   font-weight: normal;
 }
@@ -100,9 +104,14 @@ h1 {
 #gallery {
 }
 
+.span4 {
+  min-width: 215px;
+}
+
 .app-box {
   height: 250px;
-  width: 100%;
+  width: 215px;
+  min-width: 215px;
   float: left;
   background: #fff;
   color: #333;
