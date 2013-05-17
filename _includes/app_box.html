@@ -1,0 +1,23 @@
+<div class="span4">
+  <div class="app-box">
+    <div class="app-category">
+      <p>{{ app.category }}</p>
+    </div>
+    <a href="{{ app.url }}">
+      <img src="/assets/img/{{ app.name | downcase }}.png" />
+    </a>
+    <div class="app-details">
+      <h4>
+        <a href="{{ app.url }}">{{ app.name }}</a>
+      </h4>
+      <p>
+        {{ app.desc }}
+      </p>
+    </div>
+    <div class="app-footer">
+      <p class="pull-right">
+        @<a href="https://twitter.com/{{ app.twitter }}">{{ app.twitter }}</a> <i class="icon-twitter"></i>
+      </p>
+    </div>
+  </div>
+</div>

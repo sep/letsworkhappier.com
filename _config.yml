@@ -1,0 +1,53 @@
+# General Jekyll Config
+auto: true
+exclude: [".gitignore", "readme.md", "Gemfile", "Gemfile.lock"]
+
+apps:
+  - name: Freckle
+    url: http://letsfreckle.com
+    category: time tracking
+    desc: |
+      Time tracking, not hair pulling
+    twitter: letsfreckle
+
+  - name: Harvest
+    url: http://getharvest.com
+    category: time tracking
+    desc: |
+      Spend less time tracking and more time doing
+    twitter: harvest
+
+  - name: TinyPulse
+    url: https://www.tinypulse.com/
+    category: employee feedback
+    desc: |
+      Lightweight employee surveys to improve retention
+    twitter: TINYpulse‎
+
+  - name: Morale
+    url: https://www.moraleapp.com/
+    category: employee feedback
+    desc: |
+      No hassle team mood tracking in just ten seconds a day
+    twitter: MoraleApp
+
+  - name: 15five
+    url: http://www.15five.com
+    category: status reports
+    desc: |
+      15 minutes a week to write, 5 minutes to read status reports
+    twitter: 15five
+
+  - name: iDoneThis
+    url: https://idonethis.com
+    category: status reports
+    desc: |
+      Reply to an evening email with what you did that day, get a digest of what the team got done
+    twitter: idonethis
+
+  - name: Happiily
+    url: http://happiily.com/
+    category: employee feedback
+    desc: |
+      Designed to increase your happiness with your work life
+    twitter: happiily
