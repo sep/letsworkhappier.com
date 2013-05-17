@@ -62,6 +62,10 @@ h2 {
   font-weight: bold;
 }
 
+.happy:hover {
+  color: #94CA3E;
+}
+
 h1 {
   margin-bottom: 15px;
 }
