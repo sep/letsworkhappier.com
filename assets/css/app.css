@@ -113,7 +113,7 @@ h1 {
 }
 
 .app-box {
-  height: 250px;
+  height: 260px;
   width: 215px;
   min-width: 215px;
   float: left;
@@ -142,14 +142,14 @@ h1 {
 }
 
 .app-details {
-  height: 75px;
+  height: 90px;
   position: relative;
   clear: both;
 }
 
 .app-details h4 {
   margin-top: 10px;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
 }
 
 .app-details h4 a, #footer a {
@@ -162,7 +162,7 @@ h1 {
 
 .app-details p, .app-footer p {
   font-size: 13px;
-  margin-top: 3px;
+  margin-top: 0px;
 }
 
 .app-details h4 a:hover, #footer a:hover {

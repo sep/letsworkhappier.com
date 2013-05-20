@@ -3,12 +3,61 @@ auto: true
 exclude: [".gitignore", "readme.md", "Gemfile", "Gemfile.lock"]
 
 apps:
+  - name: Morale
+    url: https://www.moraleapp.com/
+    category: employee feedback
+    desc: |
+      No hassle team mood tracking in just ten seconds a day
+    twitter: MoraleApp
+    
+  - name: 15five
+    url: http://www.15five.com
+    category: status reports
+    desc: |
+      15 minutes a week to write, 5 minutes to read status reports
+    twitter: 15five
+
+  - name: Blossom
+    url: https://www.blossom.io/
+    category: project management
+    desc: |
+      The ideal Collaboration and Organization Tool for Startups that ship early & often
+    twitter: blossom_io
+
+  - name: Desk
+    url: http://www.desk.com/
+    category: support
+    desc: |
+      The social helpdesk for small business
+    twitter: olark
+
+  - name: Flow
+    url: http://www.getflow.com/
+    category: project management
+    desc: |
+      The secret behind thousands of super productive teams worldwide
+    twitter: flowapp
+
+  - name: Flowdock
+    url: https://flowdock.com/
+    category: communication
+    desc: |
+      A shared team inbox with group chat
+    twitter: flowdock
+
   - name: Freckle
     url: http://letsfreckle.com
     category: time tracking
     desc: |
       Time tracking, not hair pulling
     twitter: letsfreckle
+
+  - name: Happiily
+    url: http://happiily.com/
+    category: employee feedback
+    desc: |
+      Designed to increase your happiness with your work life
+    twitter: happiily
 
   - name: Harvest
     url: http://getharvest.com
@@ -17,26 +66,12 @@ apps:
       Spend less time tracking and more time doing
     twitter: harvest
 
-  - name: TinyPulse
-    url: https://www.tinypulse.com/
-    category: employee feedback
+  - name: HipChat
+    url: https://www.hipchat.com/
+    category: communication
     desc: |
-      Lightweight employee surveys to improve retention
-    twitter: TINYpulse‎
-
-  - name: Morale
-    url: https://www.moraleapp.com/
-    category: employee feedback
-    desc: |
-      No hassle team mood tracking in just ten seconds a day
-    twitter: MoraleApp
-
-  - name: 15five
-    url: http://www.15five.com
-    category: status reports
-    desc: |
-      15 minutes a week to write, 5 minutes to read status reports
-    twitter: 15five
+      Group chat and IM built for teams
+    twitter: hipchat
 
   - name: iDoneThis
     url: https://idonethis.com
@@ -45,9 +80,33 @@ apps:
       Reply to an evening email with what you did that day, get a digest of what the team got done
     twitter: idonethis
 
-  - name: Happiily
-    url: http://happiily.com/
+  - name: Interstate
+    url: http://interstateapp.com/
+    category: project management
+    desc: |
+      Keep your users in the loop about your product's development
+    twitter: interstateapp
+
+  - name: Olark
+    url: http://www.olark.com/
+    category: support
+    desc: |
+      Live chat support should never be in the way
+    twitter: olark
+
+  - name: TinyPulse
+    url: https://www.tinypulse.com/
     category: employee feedback
     desc: |
-      Designed to increase your happiness with your work life
-    twitter: happiily
+      Lightweight employee surveys to improve retention
+    twitter: TINYpulse‎
+
+  - name: Trello
+    url: https://trello.com/
+    category: project management
+    desc: |
+      Organize anything, anywhere
+    twitter: trello
+
+
+
