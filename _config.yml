@@ -9,7 +9,7 @@ apps:
     desc: |
       No hassle team mood tracking in just ten seconds a day
     twitter: MoraleApp
-    
+
   - name: 15five
     url: http://www.15five.com
     category: status reports
@@ -21,7 +21,7 @@ apps:
     url: https://www.blossom.io/
     category: project management
     desc: |
-      The ideal Collaboration and Organization Tool for Startups that ship early & often
+      A collaboration tool for startups that ship early & often
     twitter: blossom_io
 
   - name: Desk
