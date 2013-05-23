@@ -29,7 +29,7 @@ apps:
     category: support
     desc: |
       The social helpdesk for small business
-    twitter: olark
+    twitter: desk
 
   - name: Flow
     url: http://www.getflow.com/
